@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @remcostroop
-- 👀 I’m interested in coding, and juggling
+- 👀 I’m interested in coding, and many more stuff
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
